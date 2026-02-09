@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dipti (dipti/06)
+# 👋 Hi, I'm Dipti (dipti-06)
 
 🚀 **Web Developer** | 💻 Frontend & Backend Enthusiast | 🌐 Building for the Web
 
